@@ -1,5 +1,5 @@
 # GoTask
-## (React Native) Task mangement app
+## (React Native) Task management app
 - React Native 
 - React Navigation v6
 - Context & hooks
